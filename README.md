@@ -1,11 +1,11 @@
 # TensorFlow – One Hot Encoding
 
-1. [[#🇬🇧 INTRO]]
-2. [[#🇮🇹 INTRO]]
+1. [🇬🇧 Intro](#english-intro)
+2. [🇮🇹 Intro](#italian-intro)
 
 <br >
 
-# 🇬🇧 INTRO
+<h1 id="english-intro">🇬🇧 INTRO</h1>
 
 I have always been deeply fascinated by the world of _Artificial Intelligence_, especially its branches in _Machine Learning_ and _Deep Learning_.  
 For this reason, I decided to begin my learning journey with one of the most flexible and powerful libraries in terms of portability and efficiency: **TensorFlow**.
@@ -109,7 +109,7 @@ If you wish to use a **camera** instead of a preloaded image set, uncomment the 
 
 <div align="center"> <img src="./MD_photo/test.png" width="700"/> </div>
 
-# 🇮🇹 INTRO
+<h1 id="italian-intro">🇮🇹 INTRO</h1>
 
 Sono sempre stato molto appassionato del mondo dell’_Artificial Intelligence_, in particolare delle sue ramificazioni nel _Machine Learning_ e nel _Deep Learning_. Per questo ho deciso di iniziare il mio percorso con una delle librerie più flessibili in termini di portabilità ed efficienza: **TensorFlow**, sviluppando un semplice modello di _digit recognition_ che utilizza il _One Hot Encoding_.
 
