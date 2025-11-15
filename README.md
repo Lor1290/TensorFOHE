@@ -1,6 +1,7 @@
 # TensorFlow – One Hot Encoding
 
  <br>
+
 # 🇬🇧 **INTRO**
 
 I have always been deeply fascinated by the world of _Artificial Intelligence_, especially its branches in _Machine Learning_ and _Deep Learning_.  
